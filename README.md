@@ -11,14 +11,11 @@ This project focuses on analyzing loan approval data to identify key factors inf
 ## Repository Structure
 ```
 loan-approval-analysis/
-│
 ├── Loan-Approval_Project.ipynb   # Main Jupyter Notebook
 ├── README.md                     # Project overview and instructions
 ├── requirements.txt              # Dependencies
 ├── data/                         # Folder containing the dataset
 │   └── loan.csv
-├── graphs/                       # Folder containing extracted and generated graphs
-├── scripts/                      # Folder for any auxiliary scripts
 ```
 
 ## How to Run
